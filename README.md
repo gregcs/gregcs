@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gregcs
+- 👋 Hi, I’m Gregorio Ghidoli @gregcs
 - 👀 I’m interested in machine learning and distributed systems
 - 🌱 I’m currently learning information retrieval
 - 💞️ I’m looking to collaborate on ...
