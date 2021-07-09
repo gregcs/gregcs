@@ -6,6 +6,7 @@
     - Information Retrieval
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+    - LinkedIn: https://it.linkedin.com/in/gregorio-ghidoli
 
 <!---
 gregcs/gregcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
