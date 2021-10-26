@@ -2,7 +2,7 @@
 - 👀 I’m interested in algorithms, distributed systems and data management
 - 🌱 I’m currently learning:
     - Algorithms and Complexity
-    - Distributed and Paralles Algorithms
+    - Parallel and Distributed Algorithms
     - Web Algorithms
     - Heuristic Algorithms
     - Privacy and Data Protection
