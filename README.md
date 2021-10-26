@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gregorio Ghidoli @gregcs
-- 👀 I’m interested in algorithms, distributed systems and data management
+- 👀 I’m interested in Algorithms, Distributed Systems and Data management
 - 🌱 I’m currently learning:
     - Algorithms and Complexity
     - Parallel and Distributed Algorithms
