@@ -1,11 +1,19 @@
 - 👋 Hi, I’m Gregorio Ghidoli @gregcs
 - 👀 I’m interested in Algorithms, Distributed Systems and Data management
 - 🌱 I’m currently learning:
-    - Algorithms and Complexity
+    - :heavy_check_mark: ~~Artificial Intelligence
+    - :heavy_check_mark: ~~Architectures for Big Data
+    - :heavy_check_mark: ~~Distributed and pervasive systems
+    - :heavy_check_mark: ~~Intellingent systems for industry, environment and supply chain
+    - :heavy_check_mark: ~~Theoretical computer science
+    - :heavy_check_mark: ~~Privacy and data protection
     - Parallel and Distributed Algorithms
-    - Web Algorithms
     - Heuristic Algorithms
-    - Privacy and Data Protection
+    - Algorithms and Complexity
+    - Web Algorithms
+    
+
+    - 
 <!-- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ...
     - [LinkedIn](https://it.linkedin.com/in/gregorio-ghidoli)
