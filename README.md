@@ -11,9 +11,10 @@
     - Heuristic Algorithms
     - Algorithms and Complexity
     - Web Algorithms
-    
-
-    - 
+    - Information Management
+    - Geospatial Data Management
+    - Algorithms for massive datasets
+  
 <!-- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ...
     - [LinkedIn](https://it.linkedin.com/in/gregorio-ghidoli)
