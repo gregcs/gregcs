@@ -7,7 +7,7 @@
     - :heavy_check_mark: ~~Intellingent systems for industry, environment and supply chain~~
     - :heavy_check_mark: ~~Theoretical computer science~~
     - :heavy_check_mark: ~~Privacy and data protection~~
-    - :heavy_check_mark: Parallel and Distributed Algorithms
+    - :heavy_check_mark: ~~Parallel and Distributed Algorithms~~
     - Software security
     - Sotware verification and validation
     - Information Management
