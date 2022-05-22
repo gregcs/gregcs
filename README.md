@@ -7,13 +7,13 @@
     - :heavy_check_mark: ~~Intellingent systems for industry, environment and supply chain~~
     - :heavy_check_mark: ~~Theoretical computer science~~
     - :heavy_check_mark: ~~Privacy and data protection~~
-    - Parallel and Distributed Algorithms
-    - Heuristic Algorithms
-    - Algorithms and Complexity
-    - Web Algorithms
+    - :heavy_check_mark: Parallel and Distributed Algorithms
+    - Software security
+    - Sotware verification and validation
     - Information Management
     - Geospatial Data Management
     - Algorithms for massive datasets
+    - Image processing
   
 <!-- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ...
