@@ -2,17 +2,17 @@
 - 👀 I’m interested in Algorithms, Distributed Systems and Data management
 - 🌱 I’m currently learning:
     - :heavy_check_mark: ~~Artificial Intelligence~~
-    - :heavy_check_mark: ~~Architectures for Big Data~~
-    - :heavy_check_mark: ~~Distributed and pervasive systems~~
     - :heavy_check_mark: ~~Intellingent systems for industry, environment and supply chain~~
-    - :heavy_check_mark: ~~Theoretical computer science~~
-    - :heavy_check_mark: ~~Privacy and data protection~~
+    - :heavy_check_mark: ~~Distributed and pervasive systems~~
     - :heavy_check_mark: ~~Parallel and Distributed Algorithms~~
-    - Software security
-    - Sotware verification and validation
-    - Information Management
-    - Geospatial Data Management
-    - Algorithms for massive datasets
+    - :heavy_check_mark: ~~Architectures for Big Data~~
+    - :heavy_check_mark: ~~Theoretical computer science~~
+    - :heavy_check_mark: ~~Software security~~
+    - :heavy_check_mark: ~~Sotware verification and validation~~
+    - :heavy_check_mark: ~~Privacy and data protection~~
+    - :heavy_check_mark: ~~Complements of privacy and data protection~~
+    - :heavy_check_mark: ~~Information Management~~
+    - :heavy_check_mark: ~~Geospatial Data Management~~
     - Image processing
   
 <!-- - 💞️ I’m looking to collaborate on ... --->
