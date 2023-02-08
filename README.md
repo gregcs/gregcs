@@ -9,7 +9,7 @@
     <ul>
         <li>Courses I liked the most: distributed systems, information and geospatial data management, architectures for Big Data.</li>
         <li>Currently writing my thesis about extracting <b>Collective mobility patterns</b> from spatial trajectories.</li>
-        <li>I was involved in the writing of <a href="https://scholar.google.com/citations?hl=en&user=q7-hjoYAAAAJ">two peer-reviewed scientific papers</a> about <b>Neural Networks compression</b>.</li>
+        <li>I was involved in the writing of two <a href="https://scholar.google.com/citations?hl=en&user=q7-hjoYAAAAJ">peer-reviewed scientific papers</a> about <b>Neural Networks compression</b>.</li>
     </ul>
     <li>I'm a <b>Junior naked eyes stargazer</b> :eye::star:, hoping one day to see <a href="https://www.youtube.com/watch?v=JGc_2eAy8-g&ab_channel=DanieleGasparri">the night sky of the Atacama Desert</a>.</li>
     <ul> 
