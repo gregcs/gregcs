@@ -14,7 +14,7 @@
     <li>I'm a Junior naked eyes stargazer :eye::star:</li>
     <ul> 
         <li>Favourite constellations: <a href="https://en.wikipedia.org/wiki/Cygnus_(constellation)">Cygnus</a> :swan: and <a href="https://en.wikipedia.org/wiki/Draco_(constellation)">Draco</a> :dragon:</li>
-        <li><a href="https://it.m.wikibooks.org/wiki/Osservare_il_cielo">Useful resource</a> in Italian.</li>
+        <li><a href="https://it.m.wikibooks.org/wiki/Osservare_il_cielo">Here</a> a useful resource in Italian.</li>
     </ul>
 </ul>
 
