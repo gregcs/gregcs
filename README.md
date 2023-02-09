@@ -18,11 +18,18 @@
 </ul>
 - :computer: Struggling to find the right career path and specialization
     <ul>
-        <li>:confounded: I like almost everithing in the computer science world: most of all software engineering and data engineering</li>
-        <li>:infinity: My philosophy: learn :arrow_right: 3x practice :rewind: back to the basics :fast_forward: internalize :repeat: repeat</li>
-        <li>:heart_on_fire: <s>I'm in love with Python</s> I believe in polygamy, I’m not a fan of any <b>specific programming language</b>...</li>
-    <li>:snake::coffee: ... but I'm used to code mostly in <b>Python</b> or <b>Java</b></li>
+        <li>:thinking: I like almost everithing in the computer science world: most of all software engineering and data engineering</li>
+        <li>:infinity: My philosophy: :bulb: learn :arrow_right: 3x practice :rewind: back to the basics :fast_forward: internalize :repeat: repeat</li>
+        <li>:heart_on_fire: <s>I'm in love with Python</s> I’m not a fan of any specific<b> programming language</b>...</li>
+    <li>:snake::coffee: ... but I'm used to code mostly in <b>Python</b> and <b>Java</b></li>
     </ul>
+- :o:ther:
+    <ul>
+    <li>:weight_lifting_man: I work out at my home gym</li>
+    <li>:walking_man: I usually go out for a walk to refresh my mind</li>
+    <li>:studio_microphone: I prefer listening to podcasts instead of watching tv series</li>
+    <ul><li>some of my favorites: <a href="https://www.youtube.com/@hubermanlab">Huberman</a>, <a href="https://www.youtube.com/@lexfridman">Lex Fridman</a>, <a href="https://www.youtube.com/@JockoPodcastOfficial">Jocko</a>, <a href="https://www.youtube.com/@cachemirepodcast">Cachemire</a></li></ul>
+    </ul> 
 <!---
 gregcs/gregcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
