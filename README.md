@@ -1,7 +1,7 @@
 <h1>Ciao, I'm Gregorio! :vulcan_salute: </h1>
 <h3>... but please just call me Greg :handshake:</h3>
 
-<p>:nerd_face: I'm a curious guy who likes to study and <b>learn new things</b>, not only programming related!</p>
+<p>:nerd_face: I'm a curious guy who likes to study and <b>learn new things</b>, not only computer science related!</p>
 
 <h2>Some facts about me :ballot_box_with_check:</h2>
 - :man_student: I'm about to graduate in <b>Computer Science</b> (Master Degree)
@@ -16,11 +16,12 @@
         <li>:closed_book: <a href="https://it.m.wikibooks.org/wiki/Osservare_il_cielo">Here</a> a useful free resource in Italian</li>
     </ul>
 </ul>
-- :computer: Struggling to become a clean coder
-    <ul> 
+- :computer: Struggling to find the right career path and specialization
+    <ul>
+        <li>:confounded: I like almost everithing in the computer science world: most of all software engineering and data engineering</li>
         <li>:infinity: My philosophy: learn :arrow_right: 3x practice :rewind: back to the basics :fast_forward: internalize :repeat: repeat</li>
-        <li>:heart_on_fire: <s>I'm in love with Python</s> I believe in polygamy, I don't mind programming in a <b>specific language</b>...</li>
-    <li>:snake::coffee: ... Ok, but I'm used to programming in <b>Python</b> or <b>Java</b></li>
+        <li>:heart_on_fire: <s>I'm in love with Python</s> I believe in polygamy, I’m not a fan of any <b>specific programming language</b>...</li>
+    <li>:snake::coffee: ... but I'm used to code mostly in <b>Python</b> or <b>Java</b></li>
     </ul>
 <!---
 gregcs/gregcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
