@@ -26,7 +26,7 @@
     <ul>
     <li>:weight_lifting_man: I work out at my home gym</li>
     <li>:studio_microphone: I prefer listening to podcasts instead of watching tv series</li>
-    <ul><li>some of my favorites: <a href="https://www.youtube.com/@hubermanlab">Huberman</a>, <a href="https://www.youtube.com/@lexfridman">Lex Fridman</a>, <a href="https://www.youtube.com/@JockoPodcastOfficial">Jocko</a>, <a href="[https://www.youtube.com/@cachemirepodcast](https://www.youtube.com/@tintoriapodcast)">Tintoria</a></li></ul>
+    <ul><li>some of my favorites: <a href="https://www.youtube.com/@hubermanlab">Huberman</a>, <a href="https://www.youtube.com/@lexfridman">Lex Fridman</a>, <a href="https://www.youtube.com/@JockoPodcastOfficial">Jocko</a>/ul>
     </ul> 
 <!---
 gregcs/gregcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
