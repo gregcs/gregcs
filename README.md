@@ -16,10 +16,9 @@
         <li>:closed_book: <a href="https://it.m.wikibooks.org/wiki/Osservare_il_cielo">Here</a> a useful free resource in Italian</li>
     </ul>
 </ul>
-- :computer: I am currently working as a Data Engineer in the Data Science team (Tech & Specials) at Nexi Italy, where I focus on building a new data platform, engineering data products, and developing customized end-to-end projects.
+- :computer: I am currently working as a Data Engineer in the Data Science team at Nexi Italy, where I focus on building a new data platform, engineering data products, and developing customized end-to-end projects.
     <ul>
         <li>:thinking: I like almost everithing in the computer science world: most of all software engineering and data engineering</li>
-        <li>:infinity: My philosophy: :bulb: learn :arrow_right: 3x practice :fast_forward: internalize :repeat: repeat</li>
         <li>:heart_on_fire: <s>I'm in love with Python</s> I’m not a fan of any specific<b> programming language</b>...</li>
     <li>:snake::coffee: ... but I'm used to code mostly in <b>Python</b> and <b>Java</b></li>
     </ul>
